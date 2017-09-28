@@ -1,0 +1,8 @@
+{
+	"cmd":["E:/RYNewGame/668Mobile/run/debug/win32/GloryProject.exe","E:/RYNewGame/668Mobile/client"],
+	"working_dir" : "E:/RYNewGame/668Mobile/client/base/src",
+  	"file_regex": "^(...*?):([0-9]*):?([0-9]*)",  
+    "shell": true,
+    "encoding":"utf-8",
+    "selector":"source.lua"
+}
